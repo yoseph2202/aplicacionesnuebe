@@ -27,8 +27,7 @@ INSERT INTO n_cliente VALUES ('302', 'Toms Sporting Goods', '540-987-6543','6741
 'Harrisonburg', 'VA','US', '22809','MALA', '14', '1', NULL);
 INSERT INTO n_cliente VALUES ('303', 'Athletic Attire', '540-123-6789','54 Market St',
 'Harrisonburg', 'VA','US', '22808','BUENA', '14', '1', NULL);
-INSERT INTO n_cliente
-VALUES ('304', 'Athletics For All', '540-987-1234','286 Main St', 'Harrisonburg', 'VA',
+INSERT INTO n_cliente VALUES ('304', 'Athletics For All', '540-987-1234','286 Main St', 'Harrisonburg', 'VA',
 'US', '22808','EXCELENTE', '12', '1', NULL);
 INSERT INTO n_cliente VALUES ('305', 'Shoes for Sports', '540-123-9876','538 High St',
 'Harrisonburg', 'VA','US', '22809','EXCELENTE', '14', '1', NULL);
